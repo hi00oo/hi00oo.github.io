@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@font-face{
+    font-family: 'uph';
+    src: local("Upheaval TT (BRK)"), url('./fonts/upheavtt.eot') format("embedded-opentype")
+    url('./fonts/Upheaval.woff') format('woff'),
+    url('./fonts/Upheaval.otf') format('opentype'),
+    url(./fonts/Upheaval.ttf') format('truetype');
+}
+
